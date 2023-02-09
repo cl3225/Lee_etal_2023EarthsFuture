@@ -1,0 +1,1 @@
+Uderlying data for Lee, Camargo, Sobel, Tippett, Wüst, Wehner, and Murakami 2023 (####, Earth's Future). Here we provide annual frequency (pre-calibrated), 95% lifetime maximum intensity, and translation speed from all datasets in NetCDF format. Please reffers to the manuscript for details.
